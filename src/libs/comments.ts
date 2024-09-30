@@ -1,4 +1,7 @@
-export const comments = [
+
+import { CommentsProps  } from "./types";
+
+export const comments:any = [
   {
     username: "Lisa",
     userImagePath: "/profileImages/lisa.jpg",
